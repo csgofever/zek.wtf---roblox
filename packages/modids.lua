@@ -4,7 +4,7 @@
 --// dab
 
 MODS = {
-    
+    [2464548888] = true; -- fever_vfx (owner)
 }
 
 ADMIN = {
